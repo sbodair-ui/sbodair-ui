@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="images/github-banner.png" alt="Stephen ODair GitHub Banner" width="100%">
+  <img src="github-banner.png" width="100%" alt="Stephen ODair GitHub Banner">
 </p>
+
 # Hi, I'm Stephen ODair 👋
 
 ## Software Developer | Computer Science Educator
