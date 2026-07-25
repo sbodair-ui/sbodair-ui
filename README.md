@@ -12,12 +12,6 @@ Software Developer • Computer Science Educator
 Building software that solves real-world problems while preparing the next generation of technology professionals.
 </p>
 
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=sbodair-ui&color=blue&style=for-the-badge)
-
-</p>
-
 ---
 
 # 👋 About Me
