@@ -2,23 +2,28 @@
 
 ## Software Developer | Computer Science Educator
 
-I combine professional software development experience with Computer Science education to prepare students for college, industry certifications, and careers in technology. My passion is helping students become confident problem solvers by building real-world software through hands-on, project-based learning.
+Welcome to my GitHub! I combine professional software development experience with Computer Science education to prepare students for college, industry certifications, and technology careers through real-world, project-based learning.
+
+My repositories showcase software development, artificial intelligence, web development, databases, cybersecurity, game development, and classroom programming projects that demonstrate both technical expertise and practical teaching applications.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Software Developer with experience in web development, databases, game development, data analytics, and machine learning
+- 💻 Professional Software Developer
 - 👨‍🏫 High School Computer Science Educator
-- 🤖 Passionate about Artificial Intelligence and emerging technologies
-- 🎮 Building engaging programming and game development projects
-- 🚀 Preparing students for college and technology careers through authentic software engineering experiences
+- 🤖 Artificial Intelligence & Machine Learning Enthusiast
+- 🎮 Unity Game Developer
+- 🌐 Full-Stack Web Developer
+- 📊 Data Analytics & SQL Developer
+- 🚀 Passionate about helping students become confident software developers
 
 ---
 
 ## 🚀 Areas of Expertise
 
 ### Programming Languages
+
 - Python
 - Java
 - C#
@@ -26,52 +31,64 @@ I combine professional software development experience with Computer Science edu
 - JavaScript
 - SQL
 
-### Software Development
+### Software Engineering
+
 - Object-Oriented Programming (OOP)
 - Algorithms & Data Structures
-- Software Engineering
-- API Integration
+- Software Engineering Principles
 - Database Design
-- Version Control (Git & GitHub)
+- API Integration
+- Software Testing & Debugging
+- Git & GitHub Version Control
 
 ### Web Development
+
 - HTML5
 - CSS3
 - JavaScript
 - Responsive Web Design
 
 ### Artificial Intelligence
+
 - Machine Learning
-- Data Analysis
+- Data Analytics
 - Predictive Modeling
 
-### Computer Science
+### Computer Science Education
+
+- Project-Based Learning
+- Computational Thinking
 - Cybersecurity Fundamentals
 - Unity Game Development
-- Computational Thinking
-- Project-Based Learning
+- Classroom Programming Projects
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🤖 Machine Learning
-Developing predictive machine learning models using Python and real-world datasets.
+
+Python-based machine learning models using real-world datasets to solve practical problems.
 
 ### 🎮 Unity Game Development
-Programming gameplay systems, mechanics, and educational games using C# and Unity.
+
+Game mechanics, gameplay systems, and educational games developed with Unity and C#.
 
 ### 🌐 Web Development
-Building responsive websites and full-stack applications using modern web technologies.
 
-### 🗄 SQL Database Projects
-Designing relational databases, writing complex SQL queries, and building data-driven applications.
+Responsive websites and interactive web applications built with modern web technologies.
 
-### 🔐 Cybersecurity Labs
-Hands-on projects focused on secure programming, authentication, and cybersecurity best practices.
+### 🗄 Database Design
+
+Relational database design, SQL development, and data-driven applications.
+
+### 🔐 Cybersecurity
+
+Hands-on programming projects focused on authentication, secure coding, and cybersecurity fundamentals.
 
 ### 📚 Computer Science Classroom Projects
-Classroom-ready programming projects that help students learn by building real software.
+
+Programming projects and instructional resources designed to help high school students build real-world software development skills.
 
 ---
 
@@ -81,7 +98,7 @@ Classroom-ready programming projects that help students learn by building real s
 - Artificial Intelligence & Machine Learning
 - Unity educational game development
 - Cybersecurity programming labs
-- Interactive web applications
+- Full-stack web applications
 - Open-source educational resources
 
 ---
@@ -90,53 +107,55 @@ Classroom-ready programming projects that help students learn by building real s
 
 I believe students learn Computer Science best by creating.
 
-Every lesson should provide students with opportunities to solve problems, think critically, collaborate, and build software that reflects real-world technology careers. My goal is to help students develop the technical skills, confidence, and curiosity needed to succeed in college, industry certifications, and the rapidly evolving technology workforce.
+Every project provides an opportunity to strengthen problem-solving, computational thinking, collaboration, and software engineering skills. My goal is to connect classroom learning with authentic industry practices, helping students build confidence while preparing for college, certifications, and careers in technology.
 
 ---
 
 ## 🛠 Technologies & Tools
 
-**Languages**
+**Programming Languages**
 
 Python • Java • C# • C++ • JavaScript • SQL
 
-**Web**
+**Web Technologies**
 
-HTML5 • CSS3 • REST APIs
+HTML5 • CSS3 • JavaScript
 
-**Development**
+**Development Tools**
 
-Git • GitHub • Visual Studio • VS Code • Unity
+Git • GitHub • Visual Studio • Visual Studio Code • Unity
 
-**Data & AI**
+**Artificial Intelligence & Data**
 
 Machine Learning • Data Analytics • SQL
 
 ---
 
-## 📈 GitHub Goals
+## 🌱 Currently Growing This GitHub
 
-This GitHub showcases my professional software development projects, classroom programming resources, and educational materials that support Computer Science instruction.
-
-Current repositories focus on:
+I'm actively expanding this portfolio with projects in:
 
 - Python Programming
 - Java Programming
 - C# Development
-- JavaScript Projects
-- SQL Databases
+- JavaScript Applications
+- SQL Database Design
 - Web Development
 - Artificial Intelligence
 - Cybersecurity
 - Unity Game Development
-- Classroom Computer Science Projects
+- Classroom Computer Science Resources
 
 ---
 
 ## 📫 Connect With Me
 
+📍 Bentonville, Arkansas
+
 💼 LinkedIn *(Coming Soon)*
 
 🌐 Professional Portfolio *(Coming Soon)*
 
-⭐ *Thanks for visiting my GitHub! I'm always building new projects and creating resources that help students become the next generation of software developers.*
+---
+
+⭐ **Thanks for visiting!** My mission is to build software, create engaging learning experiences, and inspire the next generation of software developers through authentic Computer Science education.
