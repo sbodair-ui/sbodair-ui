@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="github-banner.png #1" width="100%" alt="Stephen ODair GitHub Banner">
-</p>
+  <img width="1774" height="887" alt="Image" src="https://github.com/user-attachments/assets/820b6235-1612-4a96-b472-393e5a91d874" />
 
 # Hi, I'm Stephen ODair 👋
 
