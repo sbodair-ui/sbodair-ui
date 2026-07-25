@@ -2,153 +2,120 @@
 
 ## Software Developer | Computer Science Educator
 
-Welcome to my GitHub! I combine professional software development experience with Computer Science education to prepare students for college, industry certifications, and technology careers through real-world, project-based learning.
+I build software that solves real-world problems and create learning experiences that prepare students for careers in technology.
 
-My repositories showcase software development, artificial intelligence, web development, databases, cybersecurity, game development, and classroom programming projects that demonstrate both technical expertise and practical teaching applications.
-
----
-
-## 👨‍💻 About Me
-
-- 💻 Professional Software Developer
-- 👨‍🏫 High School Computer Science Educator
-- 🤖 Artificial Intelligence & Machine Learning Enthusiast
-- 🎮 Unity Game Developer
-- 🌐 Full-Stack Web Developer
-- 📊 Data Analytics & SQL Developer
-- 🚀 Passionate about helping students become confident software developers
+With a background in software development, data analytics, educational technology, and Computer Science instruction, I enjoy transforming complex technical concepts into engaging, hands-on projects. This GitHub documents my work in software engineering, artificial intelligence, web development, databases, cybersecurity, and classroom resources designed to inspire the next generation of developers.
 
 ---
 
-## 🚀 Areas of Expertise
+## 💻 Technical Skills
 
 ### Programming Languages
 
-- Python
-- Java
-- C#
-- C++
-- JavaScript
-- SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
 
 ### Software Engineering
 
-- Object-Oriented Programming (OOP)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+- Object-Oriented Programming
+- Software Engineering
 - Algorithms & Data Structures
-- Software Engineering Principles
-- Database Design
 - API Integration
+- Database Design
 - Software Testing & Debugging
-- Git & GitHub Version Control
+- Version Control
+
+---
 
 ### Web Development
 
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Artificial Intelligence
+- Responsive Web Design
+- Interactive Web Applications
+
+---
+
+### Artificial Intelligence & Data
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 - Machine Learning
-- Data Analytics
 - Predictive Modeling
+- Data Analytics
+- SQL Database Development
 
-### Computer Science Education
+---
 
-- Project-Based Learning
-- Computational Thinking
-- Cybersecurity Fundamentals
-- Unity Game Development
+## 🚀 Featured Projects
+
+This portfolio is actively expanding with projects in:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🎮 Unity Game Development
+- 🌐 Web Development
+- 🗄 SQL Database Design
+- 🔐 Cybersecurity
+- 📊 Data Analytics
+- 📚 Classroom Computer Science Projects
+
+Each repository includes documentation, implementation details, and practical examples demonstrating modern software development practices.
+
+---
+
+## 🌱 Current Focus
+
+- Artificial Intelligence & Machine Learning
+- Python Software Development
+- Full-Stack Web Applications
+- Cybersecurity Labs
+- Unity Educational Games
+- Open-Source Educational Resources
 - Classroom Programming Projects
 
 ---
 
-## 📂 Featured Projects
+## 🎓 Teaching Philosophy
 
-### 🤖 Machine Learning
+I believe students learn Computer Science by creating.
 
-Python-based machine learning models using real-world datasets to solve practical problems.
-
-### 🎮 Unity Game Development
-
-Game mechanics, gameplay systems, and educational games developed with Unity and C#.
-
-### 🌐 Web Development
-
-Responsive websites and interactive web applications built with modern web technologies.
-
-### 🗄 Database Design
-
-Relational database design, SQL development, and data-driven applications.
-
-### 🔐 Cybersecurity
-
-Hands-on programming projects focused on authentication, secure coding, and cybersecurity fundamentals.
-
-### 📚 Computer Science Classroom Projects
-
-Programming projects and instructional resources designed to help high school students build real-world software development skills.
+My classroom emphasizes project-based learning, computational thinking, software engineering principles, and real-world problem solving. By combining authentic industry experience with engaging instruction, I help students develop the technical skills and confidence needed for college, certifications, and careers in technology.
 
 ---
 
-## 🎯 Current Focus
+## 📈 GitHub Goals
 
-- Building classroom-ready programming projects
-- Artificial Intelligence & Machine Learning
-- Unity educational game development
-- Cybersecurity programming labs
-- Full-stack web applications
-- Open-source educational resources
+This GitHub serves as my professional software development portfolio and educational resource library.
 
----
-
-## 💡 Teaching Philosophy
-
-I believe students learn Computer Science best by creating.
-
-Every project provides an opportunity to strengthen problem-solving, computational thinking, collaboration, and software engineering skills. My goal is to connect classroom learning with authentic industry practices, helping students build confidence while preparing for college, certifications, and careers in technology.
-
----
-
-## 🛠 Technologies & Tools
-
-**Programming Languages**
-
-Python • Java • C# • C++ • JavaScript • SQL
-
-**Web Technologies**
-
-HTML5 • CSS3 • JavaScript
-
-**Development Tools**
-
-Git • GitHub • Visual Studio • Visual Studio Code • Unity
-
-**Artificial Intelligence & Data**
-
-Machine Learning • Data Analytics • SQL
-
----
-
-## 🌱 Currently Growing This GitHub
-
-I'm actively expanding this portfolio with projects in:
+Current repositories focus on:
 
 - Python Programming
 - Java Programming
 - C# Development
 - JavaScript Applications
-- SQL Database Design
+- SQL Database Projects
 - Web Development
 - Artificial Intelligence
 - Cybersecurity
 - Unity Game Development
-- Classroom Computer Science Resources
+- Computer Science Classroom Resources
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 📍 Bentonville, Arkansas
 
@@ -158,4 +125,6 @@ I'm actively expanding this portfolio with projects in:
 
 ---
 
-⭐ **Thanks for visiting!** My mission is to build software, create engaging learning experiences, and inspire the next generation of software developers through authentic Computer Science education.
+⭐ **Thank you for visiting!**
+
+I enjoy building software, exploring emerging technologies, and creating educational resources that help students become confident problem solvers and future software developers.
