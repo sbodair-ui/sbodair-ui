@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1774" height="887" alt="Image" src="https://github.com/user-attachments/assets/820b6235-1612-4a96-b472-393e5a91d874" />
+  <img width="1600" height="500" alt="Image" src="https://github.com/user-attachments/assets/67502e47-0310-4a3d-8928-b44cfeb2c3cf" />
 
 # Hi, I'm Stephen ODair 👋
 
