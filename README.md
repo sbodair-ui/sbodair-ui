@@ -2,14 +2,23 @@
 
 ## Software Developer | Computer Science Educator
 
-I am a software developer and high school Computer Science educator passionate about preparing students for careers in technology through real-world programming experiences.
-
-My background combines professional software development with classroom instruction, allowing me to connect programming concepts to authentic industry applications. I believe students learn Computer Science best by building software, solving problems, and creating meaningful projects.
+I combine professional software development experience with Computer Science education to prepare students for college, industry certifications, and careers in technology. My passion is helping students become confident problem solvers by building real-world software through hands-on, project-based learning.
 
 ---
 
-## Areas of Expertise
+## 👨‍💻 About Me
 
+- 💻 Software Developer with experience in web development, databases, game development, data analytics, and machine learning
+- 👨‍🏫 High School Computer Science Educator
+- 🤖 Passionate about Artificial Intelligence and emerging technologies
+- 🎮 Building engaging programming and game development projects
+- 🚀 Preparing students for college and technology careers through authentic software engineering experiences
+
+---
+
+## 🚀 Areas of Expertise
+
+### Programming Languages
 - Python
 - Java
 - C#
@@ -18,81 +27,116 @@ My background combines professional software development with classroom instruct
 - SQL
 
 ### Software Development
-
-- Object-Oriented Programming
+- Object-Oriented Programming (OOP)
 - Algorithms & Data Structures
 - Software Engineering
-- Database Design
 - API Integration
-- Version Control (Git)
+- Database Design
+- Version Control (Git & GitHub)
 
 ### Web Development
-
 - HTML5
 - CSS3
 - JavaScript
-- Responsive Design
+- Responsive Web Design
 
 ### Artificial Intelligence
-
 - Machine Learning
 - Data Analysis
 - Predictive Modeling
 
-### Computer Science Education
-
-- Project-Based Learning
-- Computational Thinking
+### Computer Science
 - Cybersecurity Fundamentals
-- Game Development
-- Classroom Programming Projects
+- Unity Game Development
+- Computational Thinking
+- Project-Based Learning
 
 ---
 
-## Featured Projects
+## 📂 Featured Projects
 
 ### 🤖 Machine Learning
-
-Building predictive models using Python and real-world datasets.
+Developing predictive machine learning models using Python and real-world datasets.
 
 ### 🎮 Unity Game Development
-
-Programming gameplay systems and interactive experiences using C# and Unity.
+Programming gameplay systems, mechanics, and educational games using C# and Unity.
 
 ### 🌐 Web Development
+Building responsive websites and full-stack applications using modern web technologies.
 
-Responsive websites built with HTML, CSS, and JavaScript.
+### 🗄 SQL Database Projects
+Designing relational databases, writing complex SQL queries, and building data-driven applications.
 
-### 🗄 Database Design
+### 🔐 Cybersecurity Labs
+Hands-on projects focused on secure programming, authentication, and cybersecurity best practices.
 
-SQL database projects demonstrating relational design and data management.
-
-### 🔐 Cybersecurity
-
-Programming projects introducing authentication, secure coding, and digital security concepts.
-
-### 📚 Classroom Projects
-
-Programming assignments and instructional resources designed for high school Computer Science students.
+### 📚 Computer Science Classroom Projects
+Classroom-ready programming projects that help students learn by building real software.
 
 ---
 
-## Teaching Philosophy
+## 🎯 Current Focus
 
-I believe Computer Science is about more than learning a programming language.
-
-Students should leave the classroom able to:
-
-- Think critically
-- Solve complex problems
-- Collaborate effectively
-- Build real software
-- Continue learning new technologies
-
-My goal is to prepare students for college, industry certifications, and careers in technology through authentic, project-based learning.
+- Building classroom-ready programming projects
+- Artificial Intelligence & Machine Learning
+- Unity educational game development
+- Cybersecurity programming labs
+- Interactive web applications
+- Open-source educational resources
 
 ---
 
-## Technologies
+## 💡 Teaching Philosophy
 
-Python • Java • C# • C++ • JavaScript • SQL • HTML • CSS • Git • GitHub • Unity
+I believe students learn Computer Science best by creating.
+
+Every lesson should provide students with opportunities to solve problems, think critically, collaborate, and build software that reflects real-world technology careers. My goal is to help students develop the technical skills, confidence, and curiosity needed to succeed in college, industry certifications, and the rapidly evolving technology workforce.
+
+---
+
+## 🛠 Technologies & Tools
+
+**Languages**
+
+Python • Java • C# • C++ • JavaScript • SQL
+
+**Web**
+
+HTML5 • CSS3 • REST APIs
+
+**Development**
+
+Git • GitHub • Visual Studio • VS Code • Unity
+
+**Data & AI**
+
+Machine Learning • Data Analytics • SQL
+
+---
+
+## 📈 GitHub Goals
+
+This GitHub showcases my professional software development projects, classroom programming resources, and educational materials that support Computer Science instruction.
+
+Current repositories focus on:
+
+- Python Programming
+- Java Programming
+- C# Development
+- JavaScript Projects
+- SQL Databases
+- Web Development
+- Artificial Intelligence
+- Cybersecurity
+- Unity Game Development
+- Classroom Computer Science Projects
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn *(Coming Soon)*
+
+🌐 Professional Portfolio *(Coming Soon)*
+
+⭐ *Thanks for visiting my GitHub! I'm always building new projects and creating resources that help students become the next generation of software developers.*
